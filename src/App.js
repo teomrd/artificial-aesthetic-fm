@@ -9,7 +9,6 @@ function App() {
         <p>
           Hello Artificial Aesthetic radio
         </p>
-      <div>dsadsadsaa</div>
       </header>
     </div>
   );
